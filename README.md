@@ -16,7 +16,7 @@
 
 #### What excites me
 
-Frontend technologies, reviewing code, crafting stellar PR's, learning about web performance and accessiblity
+Frontend technologies, reviewing code, crafting stellar PR's, learning about web performance and accessibility
 
 #### My journey
 I transitioned into software engineering because I wanted to use my organizational skills and eye for detail to solve real world problems.  I focus my efforts on delivering code that is clean and user focused while learning why certain approaches, solutions, and patterns work (or don't work).
@@ -31,7 +31,17 @@ Prior to software engineering I worked for startups in customer support roles, b
 
 #### Goals
 
-As a junior engineer my longterm goals are to be point on web accessibility and code reviews on a future team. My short term goals are to continue to work towards mastery of design systems, web accessiblity, usage of APIs, understanding serverless technology, and code documentation
+As a junior engineer some of my long term goals are: 
+   - Run point on web accessibility and code reviews on a future team while working as a frontend engineer
+   - Reaching proficiency (advanced knowledge) of JavaScript, React, and TypeScript 
+   - Understanding how to make web pages highly performant and accessible      
+   - Gain a thorough understanding of design systems, usage of APIs, serverless technology
+
+As a junior engineer some of my short term goals are:
+  - Improve upon code documentation as I build out new projects or work on new features
+  - Continue to work towards advanced knowledge of JavaScript (practicing often, at least 4 days a week)
+  - Continue to build small pieces of a UI from scratch then again in React
+  - Continue studies/work on web performance, accessiblity, React best practices, and GraphQL
 
 #### My hobbies and interests outside of coding:
    - I enjoy movies and shows :clapper:	

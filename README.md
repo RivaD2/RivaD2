@@ -19,38 +19,36 @@
 Frontend technologies, reviewing code, crafting stellar PR's, learning about web performance and accessibility
 
 #### My journey
-I transitioned into software engineering because I wanted to use my organizational skills and eye for detail to solve real world problems.  I focus my efforts on delivering code that is clean and user focused while learning why certain approaches, solutions, and patterns work (or don't work).
+I transitioned into software engineering because I wanted to use my organizational skills and eye for detail to solve real world problems. I focus my efforts on delivering code that is clean and user focused while learning why certain approaches, solutions, and patterns work (or don't work).
 
 Prior to software engineering I worked for startups in customer support roles, built high end lighting fixtures at an architectural and design firm, walked people through HoloLens demos at Microsoft, and was line chef on two of Seattle's food trucks. My background reflects my curiosity and desire to find an overlap between my talents and interests.
 
 #### A bit more about me:
   - I am eager to learn (I like jumping into new territory)
-  - I tend to set the bar high for the work I deliver ( I like my work to be nice and clean and I put in :100:% effort)
+  - I tend to set the bar high for the work I deliver (I like my work to be nice and clean and I put in :100:% effort)
   - Integrity, creativity, curiosity, humor and grit are some of my key attributes I am most proud of
-
 
 #### Goals
 
-As a junior engineer some of my long term goals are: 
+long term goals:
    - Run point on web accessibility and code reviews on a future team while working as a frontend engineer
    - Reaching proficiency (advanced knowledge) of JavaScript, React, and TypeScript 
    - Understanding how to make web pages highly performant and accessible      
    - Gain a thorough understanding of design systems, usage of APIs, serverless technology
 
-As a junior engineer some of my short term goals are:
+ short term goals:
   - Improve upon code documentation as I build out new projects or work on new features
-  - Continue to work towards advanced knowledge of JavaScript (practicing often, at least 4 days a week)
+  - Continue to work towards advanced knowledge of JavaScript
   - Continue to build small pieces of a UI from scratch then again in React
   - Continue studies/work on web performance, accessiblity, React best practices, and GraphQL
 
-#### My hobbies and interests outside of coding:
+#### Hobbies and interests outside of coding:
    - I enjoy movies and shows :clapper:	
    - Playing chess :chess_pawn:	
    - Indoor climbing and aerial arts (with a heavy focus on static trapeze) :circus_tent:	 :climbing_woman:
    - Learning languages (Russian, Swedish, German) 
-   - Reading books (reading is important! :smiley: :books:) 
    - Cooking, painting, and tending to my many plants :woman_cook:	:paintbrush:	:potted_plant:	
-   - I love all things culinary and take joy in learning about cultures and foods from around the world. I am interested in the story and design behind products and how they work to impact the customer experience.
+   - Interested in the story and design behind products and how they work to impact the customer experience.
 
 [![Riva Github Stats](https://github-readme-stats.vercel.app/api?username=rivad2&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivad2&layout=compact)](https://github.com/rivad2/github-readme-stats)

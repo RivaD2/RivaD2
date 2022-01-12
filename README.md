@@ -50,6 +50,6 @@ long term goals:
    - Cooking, painting, and tending to my many plants :woman_cook:	:paintbrush:	:potted_plant:	
    - Interested in the story and design behind products and how they work to impact the customer experience.
 
-[![Riva Github Stats](https://github-readme-stats.vercel.app/api?username=rivad2&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivad2&layout=compact)](https://github.com/rivad2/github-readme-stats)
+![Riva Github Stats](https://github-readme-stats.vercel.app/api?username=rivad2&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivad2&layout=compact)
 

@@ -1,6 +1,12 @@
 ## Hi, I'm Riva Davidowski :wave:
 
-### I am a JavaScript engineer who has a passion for frontend technologies and web accessibility
+**I am a JavaScript engineer who has a passion for:**
+
+ - frontend technologies
+ - code reviews 
+ - crafting stellar PR's
+ - learning about web performance and accessibility
+ - working with new tools and languages (GraphQL, Docker and TypeScript are recent ones I've been working with)
 
 #### Tools | Languages | Frameworks | Libaries: 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,9 +20,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 
-#### What excites me
-
-Frontend technologies, reviewing code, crafting stellar PR's, learning about web performance and accessibility
 
 #### My journey
 I transitioned into software engineering because I wanted to use my organizational skills and eye for detail to solve real world problems. I focus my efforts on delivering code that is clean and user focused while learning why certain approaches, solutions, and patterns work (or don't work).
@@ -40,7 +43,7 @@ long term goals:
   - Improve upon code documentation as I build out new projects or work on new features
   - Continue to work towards advanced knowledge of JavaScript
   - Continue to build small pieces of a UI from scratch then again in React
-  - Continue studies/work on web performance, accessiblity, React best practices, and GraphQL
+  - Continue studies/work on web performance, accessiblity (improving projects in this area), React best practices, and GraphQL
 
 #### Hobbies and interests outside of coding:
    - I enjoy movies and shows :clapper:	

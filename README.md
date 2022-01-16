@@ -11,7 +11,7 @@
  #### Tid bit more about me:
  
   - I am eager to learn (I like jumping into new territory, whether that be working on the backend or the frontend)
-  - I tend to set the bar high for the work I deliver (I really like my work to be nice and clean and I typically obsess a bit about whitespace, indendetation and variable names)
+  - I tend to set the bar high for the work I deliver (I really like my work to be nice and clean and I typically obsess a bit about whitespace, indentation, and variable names)
   - I put in :100:% effort and am pretty determined to get the job done
   - Integrity, creativity, curiosity, humor and grit are some of my key attributes I am most proud of
   - I am currently focusing on remembering best practices, improving past and current work, and building features from vanilla JS in React

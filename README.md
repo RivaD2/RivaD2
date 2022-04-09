@@ -6,7 +6,7 @@
  - code reviews 
  - crafting stellar PR's
  - learning about web performance and accessibility
- - working with new tools and languages (GraphQL, Docker, TypeScript, and HTTPie are recent ones I've been working with)
+ - working with new tools and languages (Ones I work with but am new to are GraphQL, Docker, TypeScript, Scala, AzureDevOps to name a few)
  
  #### Tid bit more about me:
  

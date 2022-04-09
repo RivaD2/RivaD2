@@ -48,7 +48,7 @@ long term goals:
   - Build upon and improve documentation as I build out new projects or work on new features
   - Continue to work towards advanced knowledge of JavaScript while solidifying knowledge of React best practices
   - Improve my current and past projects, working on web performance and accessiblity
-  - Learn GraphQL
+  - Keep working and learning while using GraphQL, TS, Scala, React, JS
 
 #### Hobbies and interests outside of coding:
    - I enjoy movies and shows :clapper:	

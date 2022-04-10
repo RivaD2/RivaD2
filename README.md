@@ -14,7 +14,7 @@
   - I tend to set the bar high for the work I deliver (I really like my work to be nice and clean and I typically obsess a bit about whitespace, indentation, and variable names)
   - I put in :100:% effort and am pretty determined to get the job done
   - Integrity, creativity, curiosity, humor and grit are some of my key attributes I am most proud of
-  - I am currently focusing on remembering best practices, improving past and current work, and building features from vanilla JS in React
+  - I am focusing on best practices, improving past and current work, and learning new tools and technologies while working as a Software Engineering Apprentice at Microsoft Leap
 
 #### Tools | Languages | Frameworks | Libaries: 
 
@@ -32,9 +32,9 @@
 
 #### My journey
 
-I transitioned into software engineering because I wanted to use my organizational skills and eye for detail to solve real world problems. I focus my efforts on delivering code that is clean and user focused while learning why certain approaches, solutions, and patterns work (or don't work).
+I transitioned into software engineering because I wanted to use my organizational skills and eye for detail to solve real world problems. I focus my efforts on delivering code that is clean and user focused while learning more about how code (different languages) work under the hood.
 
-Prior to software engineering I worked for startups in customer support roles, built high end lighting fixtures at an architectural and design firm, walked people through HoloLens demos at Microsoft, and was line chef on two of Seattle's food trucks. My background reflects my curiosity and desire to find an overlap between my talents and interests.
+Prior to software engineering I worked in various industries (in startups holding customer support roles, building high end lighting fixtures at an architectural and design firm, and was a line chef on two of Seattle's food trucks). My background reflects my curiosity and desire to find an overlap between my talents and interests.
 
 #### Goals
 
@@ -48,7 +48,7 @@ long term goals:
   - Build upon and improve documentation as I build out new projects or work on new features
   - Continue to work towards advanced knowledge of JavaScript while solidifying knowledge of React best practices
   - Improve my current and past projects, working on web performance and accessiblity
-  - Keep working and learning while using GraphQL, TS, Scala, React, JS
+  - Keep working on new features and continuing to remedy knowledge gaps in GraphQL, TS, Scala, React, JS
 
 #### Hobbies and interests outside of coding:
    - I enjoy movies and shows :clapper:	

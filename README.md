@@ -1,6 +1,6 @@
 ## Hi, I'm Riva Davidowski :wave:
 
-**I am a JavaScript engineer who has a passion for:**
+**I am a Software Engineer who has a passion for:**
 
  - frontend technologies
  - code reviews 
